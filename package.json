@@ -1,0 +1,15 @@
+{
+  "name": "net-snmp-issue-257",
+  "version": "1.0.0",
+  "description": "Reproduces https://github.com/markabrahams/node-net-snmp/issues/257",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net-snmp": "3.14.0"
+  }
+}
